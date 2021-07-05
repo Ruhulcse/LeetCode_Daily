@@ -12,11 +12,11 @@ Pull requests are welcome. Please keep the list in alphabetical order.
 
 ## The list
 
-Problem Name                                      | Level                        | Solution Idea               | My tutorial
-------------------------------------------------- | -----------------------------| ----------------------------| ------------------------------------ | 
-
+Problem Name                                           | Level                        | Solution Idea                              | My tutorial
+------------------------------------------------- | -----------------------------            | ----------------------------                   | ------------------------------------ | ----------------------- | ----------------------
 [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | Medium | Bruteforce | :keyboard: [Medium blog](https://ruhul-amin.medium.com/number-of-matching-subsequences-leetcode-792-7a853c90a140)
 
+[AngelList](https://www.angellist.com/)           | Early-stage investing                    | React, TypeScript, GraphQL, Ruby, Rails, Kubernetes | ✓                               | Anywhere                | :keyboard: [Jobs](https://angel.co/company/angellist)<br>:door: [Glassdoor](https://www.glassdoor.com/Overview/Working-at-AngelList-EI_IE1089094.11,20.htm?countryRedirect=true)
 
 
 *Note:* There seem to be hundreds of remote job aggregators, and new ones keep emerging. This is just a sample. If you want to add an aggregator, it should have more traffic than most of the above sites.
