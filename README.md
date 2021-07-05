@@ -5,6 +5,6 @@ It will help to anyone to see the problem along with its solution approach.
 
 ## Problem List with tutorial
 
-Name | Difficulty | solving approach | my tutorial 
+Name | Difficulty | Solving approach | My tutorial 
 ------------ | ------- | ----------- | ------------
 [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | Medium | Bruteforce | :keyboard: [Medium blog](https://ruhul-amin.medium.com/number-of-matching-subsequences-leetcode-792-7a853c90a140)
