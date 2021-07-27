@@ -8,6 +8,8 @@ public:
         //     return ratings.size();
         // }
         //higher rating's children will get more candy then left children
+        
+        
         for(int i=0;i<ratings.size()-1;i++){
             if(ratings[i]<ratings[i+1]){
                 candy[i+1]=candy[i]+1;
