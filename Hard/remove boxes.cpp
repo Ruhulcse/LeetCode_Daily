@@ -12,6 +12,9 @@ public:
         res = (k+1)*(k+1) + utils(boxes,i+1,j,0); // no extras from prev calls
         
 //         check for which groups in b/w to remove first so that left and right parts can be combined to form a larger group
+        
+        
+        
         for(int g = i+1;g<=j;g++){
             if(boxes[i]==boxes[g])
                 res = max({ res,
