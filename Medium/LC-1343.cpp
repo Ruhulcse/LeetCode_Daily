@@ -9,6 +9,7 @@ public:
         count = (result>=threshold);
        for(int i=k;i<arr.size();i++){
            result+=(arr[i]-arr[i-k]);
+          //counting.......
            count+= (result>=threshold);
        }
       return count;
