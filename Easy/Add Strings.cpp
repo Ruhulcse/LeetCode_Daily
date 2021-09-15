@@ -6,7 +6,6 @@ public:
         int carry = 0;
         string result;
         
-        
         while(i>-1||j>-1){
             int n = (i>=0?num1[i]-'0':0);
             int m = (j>=0?num2[j]-'0':0);
