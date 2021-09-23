@@ -15,6 +15,7 @@ public:
             i--;
             j--;
         }
+        
         //HEADING
         reverse(result.begin(),result.end());
         return result; //returning result
