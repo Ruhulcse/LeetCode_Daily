@@ -5,6 +5,7 @@ public:
         int x;
         int y;
     };
+    //point
     set<pair<int,int>>s,coll;
     
     int cross(point a,point b,point c){
