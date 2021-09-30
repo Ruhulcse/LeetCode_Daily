@@ -9,6 +9,8 @@
  * };
  */
 class Solution {
+    
+    
 public:
     int getDecimalValue(ListNode* head) {
         vector<int>digits;
