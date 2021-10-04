@@ -10,7 +10,6 @@ public:
             i2 = (e + o) % mod;
             o2 = i;
             u2 = (o + i) % mod;
-            
             a = a2, e = e2, i = i2, o = o2, u = u2;
         }
         
