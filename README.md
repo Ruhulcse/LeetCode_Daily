@@ -1,6 +1,6 @@
 # Leetcode Problem solving for practicing Algorithm and data structure
 In this repository i will share my problem and it's solution that i have solved in leetcode to improve my skill of algorithm and data structure. 
-It will help to anyone to see the problem along with its solution approach. 
+If you feel it is good then try to give a star. 
 
 
 ## Problem List with tutorial
