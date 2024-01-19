@@ -9,6 +9,7 @@ public:
         priority_queue<pair<int,char>>pq;
         for(it=mp.begin();it!=mp.end();it++){
             pq.push(make_pair(it->second,it->first));
+            
         }
         string result="";
         while(!pq.empty()){
